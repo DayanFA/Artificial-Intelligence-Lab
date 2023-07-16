@@ -1,15 +1,13 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DayanFA/Artificial-Intelligence-Lab/blob/main/Tecnologias%20de%20IA/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/DayanFA/Artificial-Intelligence-Lab/blob/main/Tecnologias%20de%20IA/README.pt-br.md)
 
-# Algorithms and Programming Language Course
+# Artificial Intelligence Lab Course
 
-Introduction to Programming Logic. Fundamental concepts. Algorithms. Elements of an algorithm. Forms of representation: structured Portuguese. Data types. Variables. Sequential structure. Variable declaration. Types of variables. Constants. Comments. Expressions, operators, and functions. Basic commands. Conditional structures. Repetition structures. Homogeneous data structures: arrays and matrices. Structured programming in a high-level language. Functions and the use of pointers in the C programming language.
+In-depth understanding of the concept of Artificial Intelligence stems from a detailed comprehension of its underlying principles such as Machine Learning and Deep Learning. This knowledge is then practically applied through the creation of an Artificial Intelligence project.
 
 # Exercises
 
-* Avaliação 3 - Exercise list to practice programming in C and compose the grade for N2.
-
-* Extras - Some additional exercises that I used to practice the C language further.
+* Exercícios - Exercises conducted during the classes.
 
 # Teaching plan (Portuguese only)
 
