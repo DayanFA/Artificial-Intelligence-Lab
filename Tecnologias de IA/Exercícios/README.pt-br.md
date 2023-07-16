@@ -5,12 +5,12 @@
 
 Dentre os aprendizados que obtive duranta a execução dessa atividade
 
-* aprendi boas práticas da programação.
-* Aprendi mais sobre Python e suas funcionalidade.
-* Coloquei em prática, raciocínio logico para resolver as questões.
+* Compreensão avançada de Inteligência Artificial.
+
+* Aplicação prática de Machine Learning e Deep Learning.
+
+* Maior conhecimento em Python.
 
 # Dúvida
 
-Dentre as dúvidas que sugiram durante a execução dessa atividade
-
-* Algumas coisinhas sobre Python, mais bibliotecas e uns códigos ali e aqui.
+Não houve nenhuma dúvida, o conteúdo foi bem explicado e creio que tive um ótimo aproveitamento.
