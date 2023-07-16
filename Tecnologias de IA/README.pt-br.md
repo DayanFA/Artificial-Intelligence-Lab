@@ -1,20 +1,15 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DayanFA/Artificial-Intelligence-Lab/blob/main/Tecnologias%20de%20IA/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/DayanFA/Artificial-Intelligence-Lab/blob/main/Tecnologias%20de%20IA/README.pt-br.md)
 
-# Curso de Algoritmos e Linguagem de Programação
+# Curso de Artificial Intelligence Lab
 
-Introdução à lógica de programação. Conceitos fundamentais. Algoritmos. Elementos de um algoritmo. Formas
-de representação: português estruturado. Tipos de dados. Variáveis. Estrutura sequencial. Declaração de
-variáveis. Tipos de variáveis. Constantes. Comentários. Expressões, operadores e funções. Comandos básicos.
-Estruturas condicionais. Estruturas de repetição. Estruturas de dados homogêneas: vetores e matrizes.
-Programação estruturada em linguagem de alto nível. Funções e uso de ponteiros na linguagem de programação
-C.
+Visão aprofundada do conceito de Inteligência Artificial a partir do entendimento
+detalhado de seus conceitos como Machine Learning e Deep Learning e aplicação
+prática do conteúdo a partir da criação de um projeto de Inteligência Artificial.
 
 # Exercícios
 
-* Avaliação 3 - Lista de exercícios para praticar programação em C e compor notar da N2.
-
-* Extras -  Alguns exercícios extras que usei para praticar mais a linguagem C.
+* Exercícios - Exercícios feitos durante as aulas.
 
 # Plano de ensino
 
