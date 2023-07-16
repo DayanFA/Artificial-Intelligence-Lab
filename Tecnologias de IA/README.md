@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/blob/main/Algoritmos%20e%20Linguagem%20de%20Programa%C3%A7%C3%A3o/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/blob/main/Algoritmos%20e%20Linguagem%20de%20Programa%C3%A7%C3%A3o/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DayanFA/Artificial-Intelligence-Lab/blob/main/Tecnologias%20de%20IA/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/DayanFA/Artificial-Intelligence-Lab/blob/main/Tecnologias%20de%20IA/README.pt-br.md)
 
 # Algorithms and Programming Language Course
 
@@ -13,8 +13,8 @@ Introduction to Programming Logic. Fundamental concepts. Algorithms. Elements of
 
 # Teaching plan (Portuguese only)
 
-![Plano_Ensino_CCET005_Algoritmo_e_Linguagem_de_Programação_Sistemas_2022_2-1](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/assets/123272343/efac83cb-d698-4ee7-813c-69bdae6adec6)
+![Plano_de_Trabalho_assinado_assinado-03](https://github.com/DayanFA/Artificial-Intelligence-Lab/assets/123272343/c0e24d48-0c89-4e43-9b66-721dfa2af3c5)
 
-![Plano_Ensino_CCET005_Algoritmo_e_Linguagem_de_Programação_Sistemas_2022_2-2](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/assets/123272343/5f43c2c0-9f4c-4660-b60f-c0800f9a32a8)
+![Plano_de_Trabalho_assinado_assinado-04](https://github.com/DayanFA/Artificial-Intelligence-Lab/assets/123272343/ea6dee5c-280a-4d51-a124-31ef48f69eff)
 
-PDF: [Plano_Ensino_CCET005_Algoritmo_e_Linguagem_de_Programação_Sistemas_2022_2.pdf](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/files/11860228/Plano_Ensino_CCET005_Algoritmo_e_Linguagem_de_Programacao_Sistemas_2022_2.pdf)
+PDF: [Plano_de_Trabalho_assinado_assinado.pdf](https://github.com/DayanFA/Artificial-Intelligence-Lab/files/12064787/Plano_de_Trabalho_assinado_assinado.pdf)
