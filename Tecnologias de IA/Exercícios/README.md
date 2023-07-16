@@ -5,14 +5,12 @@
 
 From the learnings I acquired during the execution of this activity
 
-* I learned good programming practices.
-
-* I learned more about Python and its functionalities.
-
-* I applied logical reasoning to solve the questions.
+* Advanced understanding of Artificial Intelligence.
+  
+* Practical application of Machine Learning and Deep Learning.
+  
+* Enhanced knowledge of Python.
 
 # Question
 
-Among the questions that came up during the execution of this activity
-
-* Some things about Python, more libraries, and some code snippets here and there.
+There were no questions, the content was well-explained, and I believe I grasped it effectively.
